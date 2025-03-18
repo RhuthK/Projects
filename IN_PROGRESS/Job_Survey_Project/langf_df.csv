@@ -1,0 +1,105 @@
+lang,Age,count
+Bash/Shell (all shells),18-24 years old,2955.0
+Bash/Shell (all shells),25-34 years old,4788.0
+Bash/Shell (all shells),35-44 years old,3160.0
+Bash/Shell (all shells),45-54 years old,1436.0
+Bash/Shell (all shells),55-64 years old,579.0
+Bash/Shell (all shells),65 years or older,125.0
+Bash/Shell (all shells),Prefer not to say,76.0
+Bash/Shell (all shells),Under 18 years old,625.0
+C,18-24 years old,2796.0
+C,25-34 years old,0.0
+C,35-44 years old,0.0
+C,45-54 years old,0.0
+C,55-64 years old,0.0
+C,65 years or older,116.0
+C,Prefer not to say,67.0
+C,Under 18 years old,803.0
+C#,18-24 years old,0.0
+C#,25-34 years old,4265.0
+C#,35-44 years old,3081.0
+C#,45-54 years old,1498.0
+C#,55-64 years old,599.0
+C#,65 years or older,111.0
+C#,Prefer not to say,57.0
+C#,Under 18 years old,0.0
+C++,18-24 years old,3454.0
+C++,25-34 years old,0.0
+C++,35-44 years old,0.0
+C++,45-54 years old,0.0
+C++,55-64 years old,432.0
+C++,65 years or older,137.0
+C++,Prefer not to say,83.0
+C++,Under 18 years old,1020.0
+Go,18-24 years old,3616.0
+Go,25-34 years old,5553.0
+Go,35-44 years old,2844.0
+Go,45-54 years old,994.0
+Go,55-64 years old,0.0
+Go,65 years or older,0.0
+Go,Prefer not to say,0.0
+Go,Under 18 years old,0.0
+HTML/CSS,18-24 years old,4759.0
+HTML/CSS,25-34 years old,7196.0
+HTML/CSS,35-44 years old,4735.0
+HTML/CSS,45-54 years old,1885.0
+HTML/CSS,55-64 years old,760.0
+HTML/CSS,65 years or older,181.0
+HTML/CSS,Prefer not to say,102.0
+HTML/CSS,Under 18 years old,1103.0
+Java,18-24 years old,0.0
+Java,25-34 years old,3621.0
+Java,35-44 years old,2201.0
+Java,45-54 years old,944.0
+Java,55-64 years old,398.0
+Java,65 years or older,91.0
+Java,Prefer not to say,0.0
+Java,Under 18 years old,602.0
+JavaScript,18-24 years old,5238.0
+JavaScript,25-34 years old,8521.0
+JavaScript,35-44 years old,5512.0
+JavaScript,45-54 years old,2216.0
+JavaScript,55-64 years old,903.0
+JavaScript,65 years or older,202.0
+JavaScript,Prefer not to say,93.0
+JavaScript,Under 18 years old,1089.0
+PHP,18-24 years old,0.0
+PHP,25-34 years old,0.0
+PHP,35-44 years old,0.0
+PHP,45-54 years old,0.0
+PHP,55-64 years old,0.0
+PHP,65 years or older,88.0
+PHP,Prefer not to say,0.0
+PHP,Under 18 years old,0.0
+Python,18-24 years old,8226.0
+Python,25-34 years old,12481.0
+Python,35-44 years old,7322.0
+Python,45-54 years old,3181.0
+Python,55-64 years old,1335.0
+Python,65 years or older,428.0
+Python,Prefer not to say,206.0
+Python,Under 18 years old,1553.0
+Rust,18-24 years old,4731.0
+Rust,25-34 years old,6419.0
+Rust,35-44 years old,3384.0
+Rust,45-54 years old,1258.0
+Rust,55-64 years old,384.0
+Rust,65 years or older,0.0
+Rust,Prefer not to say,62.0
+Rust,Under 18 years old,919.0
+SQL,18-24 years old,4551.0
+SQL,25-34 years old,8083.0
+SQL,35-44 years old,5324.0
+SQL,45-54 years old,2471.0
+SQL,55-64 years old,1067.0
+SQL,65 years or older,213.0
+SQL,Prefer not to say,72.0
+SQL,Under 18 years old,619.0
+TypeScript,18-24 years old,4683.0
+TypeScript,25-34 years old,8079.0
+TypeScript,35-44 years old,4620.0
+TypeScript,45-54 years old,1522.0
+TypeScript,55-64 years old,468.0
+TypeScript,65 years or older,0.0
+TypeScript,Prefer not to say,54.0
+TypeScript,Under 18 years old,750.0

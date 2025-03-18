@@ -1,0 +1,11 @@
+platforms,count,ftsz
+AWS,45262,10
+Azure,12850,9
+Google Cloud,11605,8
+Cloudflare,6974,7
+Firebase,6443,6
+Vercel,5491,5
+Digital Ocean,5409,4
+Heroku,3798,3
+Netlify,3238,2
+VMware,3043,1
