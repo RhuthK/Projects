@@ -1,0 +1,121 @@
+db,Age,count
+Cloud Firestore,18-24 years old,902.0
+Cloud Firestore,25-34 years old,0.0
+Cloud Firestore,35-44 years old,0.0
+Cloud Firestore,45-54 years old,0.0
+Cloud Firestore,55-64 years old,0.0
+Cloud Firestore,65 years or older,0.0
+Cloud Firestore,Prefer not to say,0.0
+Cloud Firestore,Under 18 years old,141.0
+Dynamodb,18-24 years old,0.0
+Dynamodb,25-34 years old,1834.0
+Dynamodb,35-44 years old,1255.0
+Dynamodb,45-54 years old,422.0
+Dynamodb,55-64 years old,0.0
+Dynamodb,65 years or older,0.0
+Dynamodb,Prefer not to say,0.0
+Dynamodb,Under 18 years old,0.0
+Elasticsearch,18-24 years old,0.0
+Elasticsearch,25-34 years old,2824.0
+Elasticsearch,35-44 years old,2019.0
+Elasticsearch,45-54 years old,717.0
+Elasticsearch,55-64 years old,165.0
+Elasticsearch,65 years or older,0.0
+Elasticsearch,Prefer not to say,13.0
+Elasticsearch,Under 18 years old,0.0
+Firebase Realtime Database,18-24 years old,977.0
+Firebase Realtime Database,25-34 years old,0.0
+Firebase Realtime Database,35-44 years old,0.0
+Firebase Realtime Database,45-54 years old,0.0
+Firebase Realtime Database,55-64 years old,0.0
+Firebase Realtime Database,65 years or older,0.0
+Firebase Realtime Database,Prefer not to say,0.0
+Firebase Realtime Database,Under 18 years old,150.0
+IBM DB2,18-24 years old,0.0
+IBM DB2,25-34 years old,0.0
+IBM DB2,35-44 years old,0.0
+IBM DB2,45-54 years old,0.0
+IBM DB2,55-64 years old,0.0
+IBM DB2,65 years or older,26.0
+IBM DB2,Prefer not to say,0.0
+IBM DB2,Under 18 years old,0.0
+MariaDB,18-24 years old,1830.0
+MariaDB,25-34 years old,3087.0
+MariaDB,35-44 years old,2254.0
+MariaDB,45-54 years old,1078.0
+MariaDB,55-64 years old,399.0
+MariaDB,65 years or older,99.0
+MariaDB,Prefer not to say,36.0
+MariaDB,Under 18 years old,208.0
+Microsoft Access,18-24 years old,0.0
+Microsoft Access,25-34 years old,0.0
+Microsoft Access,35-44 years old,0.0
+Microsoft Access,45-54 years old,0.0
+Microsoft Access,55-64 years old,216.0
+Microsoft Access,65 years or older,95.0
+Microsoft Access,Prefer not to say,24.0
+Microsoft Access,Under 18 years old,0.0
+Microsoft SQL Server,18-24 years old,2137.0
+Microsoft SQL Server,25-34 years old,4470.0
+Microsoft SQL Server,35-44 years old,3559.0
+Microsoft SQL Server,45-54 years old,1987.0
+Microsoft SQL Server,55-64 years old,807.0
+Microsoft SQL Server,65 years or older,160.0
+Microsoft SQL Server,Prefer not to say,43.0
+Microsoft SQL Server,Under 18 years old,112.0
+MongoDB,18-24 years old,3615.0
+MongoDB,25-34 years old,5123.0
+MongoDB,35-44 years old,2546.0
+MongoDB,45-54 years old,939.0
+MongoDB,55-64 years old,266.0
+MongoDB,65 years or older,46.0
+MongoDB,Prefer not to say,35.0
+MongoDB,Under 18 years old,437.0
+MySQL,18-24 years old,5204.0
+MySQL,25-34 years old,7707.0
+MySQL,35-44 years old,4507.0
+MySQL,45-54 years old,2049.0
+MySQL,55-64 years old,757.0
+MySQL,65 years or older,219.0
+MySQL,Prefer not to say,73.0
+MySQL,Under 18 years old,583.0
+Oracle,18-24 years old,967.0
+Oracle,25-34 years old,1744.0
+Oracle,35-44 years old,1340.0
+Oracle,45-54 years old,768.0
+Oracle,55-64 years old,333.0
+Oracle,65 years or older,64.0
+Oracle,Prefer not to say,15.0
+Oracle,Under 18 years old,0.0
+PostgreSQL,18-24 years old,9021.0
+PostgreSQL,25-34 years old,15496.0
+PostgreSQL,35-44 years old,9121.0
+PostgreSQL,45-54 years old,3555.0
+PostgreSQL,55-64 years old,1309.0
+PostgreSQL,65 years or older,392.0
+PostgreSQL,Prefer not to say,208.0
+PostgreSQL,Under 18 years old,1617.0
+Redis,18-24 years old,1725.0
+Redis,25-34 years old,4429.0
+Redis,35-44 years old,2975.0
+Redis,45-54 years old,963.0
+Redis,55-64 years old,196.0
+Redis,65 years or older,24.0
+Redis,Prefer not to say,19.0
+Redis,Under 18 years old,132.0
+SQLite,18-24 years old,4061.0
+SQLite,25-34 years old,6140.0
+SQLite,35-44 years old,3952.0
+SQLite,45-54 years old,1684.0
+SQLite,55-64 years old,630.0
+SQLite,65 years or older,177.0
+SQLite,Prefer not to say,73.0
+SQLite,Under 18 years old,648.0
+Supabase,18-24 years old,0.0
+Supabase,25-34 years old,0.0
+Supabase,35-44 years old,0.0
+Supabase,45-54 years old,0.0
+Supabase,55-64 years old,0.0
+Supabase,65 years or older,0.0
+Supabase,Prefer not to say,0.0
+Supabase,Under 18 years old,135.0
